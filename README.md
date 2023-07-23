@@ -1,6 +1,6 @@
 # The-Witcher
 
-![The Witcher](p17580215_b_v13_ac-1.jpg)
+![The Witcher](The-Witcher.jpg)
 
 
-### Here is where i will add a summary
+### The Witcher is about a supersolder named Geralt, who kills monsters for coin.
