@@ -1,7 +1,7 @@
 # The-Witcher
 
 
-<img src="The-witcher.jpeg"  width="500" height="622">
+<img src="The-witcher.jpeg"  width="480" height="622">
 
 
 
