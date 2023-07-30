@@ -5,7 +5,7 @@
 
 
 
-### The Witcher is a book turned game and tv series about a monster slayers' journey on the Continent. All three series focuses on Geralt the monster slayer, Yennafer the sorceress and the princess Ciri, among other companions.
+### The Witcher is a book turned game and tv series about a monster slayers' journey on the Continent. All three series focuses on Geralt the monster slayer, Yennafer the sorceress and the princess Ciri, among other companions saving lives.
 
 
 
