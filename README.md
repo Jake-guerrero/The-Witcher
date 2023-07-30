@@ -13,4 +13,4 @@
 
 
 
-![Views of Show](Views.png)
+<img src="Seasons.png"  width="440" height="450">
