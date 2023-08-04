@@ -1,4 +1,4 @@
-# The-Witcher
+# The Witcher
 ### *Project by Jake Guerrero*
 <br/>
 
